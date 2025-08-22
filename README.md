@@ -1,5 +1,6 @@
 ## EX. NO:2 IMPLEMENTATION OF PLAYFAIR CIPHER
-
+## name:rizwan.b
+## reg no:212224100051
 ## AIM:
 
 To write a C program to implement the Playfair Substitution technique.
